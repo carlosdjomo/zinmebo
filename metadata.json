@@ -1,0 +1,6 @@
+{
+  "name": "Zinmebo - Privacy-First Step Companion",
+  "description": "A privacy-first step companion that turns your daily movement into a gentle, rewarding journey with supportive nudges and real-time encouragement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
