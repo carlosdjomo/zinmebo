@@ -1,12 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Zinmebo
 
-# Run and deploy your AI Studio app
+## A companion to (re)discover walking
+Zinmebo is a privacy-first step companion that turns your daily movement into a gentle, rewarding journey with supportive nudges and real-time encouragement.
 
-This contains everything you need to run your app locally.
+The step counter matches your pace, mood, and progress – without blaming nor pushing beyond what you can do. Because we’re all humans, sometimes we go the extra mile and some other times we feel like cutting off and slowing down. Zinmebo (for “walk your way well”) is your best personal assistant on the move.
 
-View your app in AI Studio: https://ai.studio/apps/5ff3cc9d-8df8-4d4b-80ee-766d6dde6102
+## Features
+- Daily target
+- Weekly target
+- Weekly average
+- Auto step tracking
+- Full activity history
+- AI inspirational mate
+
+## Privacy 
+- No ads
+- Private & secured
+- Local data storage
+- No third-party access
+
 
 ## Run Locally
 
